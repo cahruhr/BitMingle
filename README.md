@@ -16,4 +16,6 @@ Reid Bixler `rmb3yz` (reidbix)
 
 [CoinShuffle](https://www.petsymposium.org/2014/papers/Ruffing.pdf)
 
+[CoinJoin](https://en.wikipedia.org/wiki/CoinJoin)
+
 [CoinParty](https://www.comsys.rwth-aachen.de/fileadmin/papers/2015/2015-ziegeldorf-codaspy-coinparty.pdf)
