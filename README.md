@@ -25,4 +25,4 @@ Reid Bixler `rmb3yz` (reidbix)
 
 ### Contact
 If you have any questions or would like to contact us about the protocol, feel free to email us:
-{rmb3yz, cfh9en}@virginia.edu
+{rmb3yz, carter}@virginia.edu
